@@ -1,16 +1,13 @@
-# catpawn
+# Catpawn
+Catpawn is a personal finance tracker and manager developed primarily to meet my own financial management needs.  
+While it was originally created for personal use, it is available for anyone who finds it suitable for their purposes.
 
-A new Flutter project.
+> [!NOTE]
+> I have no plans, nor any intention, to publish this application on the App Store, Google Play, or any other third-party platform.  
+> To use the app, it is recommended to download it from the official release pages or, preferably, compile it manually. Manual compilation ensures the most reliable experience.
 
-## Getting Started
+> [!CAUTION]
+> If you encounter this application on third-party platforms, be aware that it was not released there officially.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+This software is licensed under [GPL-3.0](LICENSE)
