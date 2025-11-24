@@ -1,0 +1,6 @@
+cocode,name,short,description
+1000,Aset,AS,"Semua aset termasuk kas, rekening bank, dan investasi"
+2000,Kewajiban,LI,Semua hutang dan kewajiban finansial
+3000,Pendapatan,INC,Semua sumber pendapatan
+4000,Beban/ Pengeluaran,EXP,Semua jenis pengeluaran
+5000,Ekuitas,EQ,Modal pemilik atau nilai bersihde,name,short,description

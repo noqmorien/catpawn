@@ -1,0 +1,6 @@
+code,name,short,description
+1000,Assets,AS,"All assets including cash, bank, investments"
+2000,Liabilities,LI,All obligations and debts
+3000,Income,INC,All sources of income
+4000,Expenses,EXP,All types of expenses
+5000,Equity,EQ,Owner's equity or net worth
